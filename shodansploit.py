@@ -20,7 +20,7 @@ searchploit_txt = """
       Linkedin : linkedin.com/in/ismailtasdelen
        Twitter : twitter.com/ismailtsdln
 """
-
+###
 shodansploit_menu_txt = """
 [1] GET > /shodan/host/{ip}
 [2] GET > /shodan/host/count
